@@ -1,0 +1,2 @@
+# cognitive-hooks-framework
+A LIVE, RUNNING, MODULAR COGNITIVE OS HOOK FRAMEWORK
